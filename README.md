@@ -7,7 +7,7 @@ BOM: 60ish M3x8 bolts
      4x m3 nuts
      56ish m3 heatsets - not the cheap skinny ones
      2x m3x25 - for the hinges
-
+     2x 20mm m3 5mm OD nylon spacers
 Printed in ASA and TPU(for the front panel gasket)
 Use a high enough infill and wall so as not to warp. Will make assembly very hard if it does.
 
