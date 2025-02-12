@@ -1,13 +1,21 @@
 Guida and BOM work in progress
 
-Panel Dimensions: 318*328
-                  324*70 - a hair under 70 is probably better
+Panel Dimensions: 318x328
+                  324x70 - a hair under 70 is probably better
 
-BOM: 60ish M3x8 bolts
+BOM: 
+
+     60ish M3x8 bolts
+
      4x m3 nuts
+     
      56ish m3 heatsets - not the cheap skinny ones
+     
      2x m3x25 - for the hinges
+     
      2x 20mm m3 5mm OD nylon spacers
+
+     
 Printed in ASA and TPU(for the front panel gasket)
 Use a high enough infill and wall so as not to warp. Will make assembly very hard if it does.
 
