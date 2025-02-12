@@ -16,6 +16,7 @@ Use a high enough infill and wall so as not to warp. Will make assembly very har
 ![IMG_1636](https://github.com/user-attachments/assets/630cffd1-b746-44ea-9855-e1d14f55f659)
 ![IMG_1637](https://github.com/user-attachments/assets/a9a37f78-bd5d-4958-a94b-3e55e8e762cf)
 ![IMG_1638](https://github.com/user-attachments/assets/ac18761f-821f-4c6c-89ad-635c587d7f3a)
+Dont accidently put a heatset in the bowden passthrough
 ![IMG_1645](https://github.com/user-attachments/assets/e0554944-6182-44e9-89fb-ac7708d7526d)
 ![IMG_1647](https://github.com/user-attachments/assets/2a158dd3-615d-4a58-9db3-d8f8db3398b2)
 ![IMG_1648](https://github.com/user-attachments/assets/4726394b-910f-45fe-a5ef-9b21fe1e97a9)
