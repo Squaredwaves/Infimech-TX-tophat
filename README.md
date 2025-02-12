@@ -1,7 +1,10 @@
 Guida and BOM work in progress
 
-Panel Dimensions: 318x328
-                  324x70 - a hair under 70 is probably better
+Panel Dimensions: 
+
+    318x328
+                  
+    324x70 - a hair under 70 is probably better
 
 BOM: 
 
