@@ -18,6 +18,8 @@ BOM:
      
      2x 20mm m3 5mm OD nylon spacers
 
+     8x ish m3 x 12-15
+     a couple other misc lengths - I keep an assortment on hand so didnt really pay attention. When I reprint and do a proper build guide I will take inventory
      
 Printed in ASA and TPU(for the front panel gasket)
 Use a high enough infill and wall so as not to warp. Will make assembly very hard if it does.
